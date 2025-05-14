@@ -38,17 +38,17 @@ A philosophical take on coding lessons. In a casual and intellectual setting, Ad
 
 ### PLANNING & TOPIC
 
-Another science guy show, demonstrating how bad-4ss the remarkably handsome Matt O'Dowd is. This is how you talk about Simultation Hypothesis, science guys! 
+Another science guy show, demonstrating how bad-4ss the remarkably handsome Matt O'Dowd is. This is how you talk about Simulation Hypothesis, science guys! 
 
 ### PRODUCTION
 
-- ✅ Develop an outline like this before the show starts, and start with cues and notes.
-- 🚫 Make a login for James, and create "unlinked" url `/unthinkme_planning``, 
+- ✅ Develop an outline like this before the show starts, and start with cues and notes
+- 🚫 Make a login for James, and create "unlinked" url `/unthinkme_planning``
 - 🚫 add md to database
 - ✅✅ Is it smart to serve markdown from firestore?
-- 🚫 create hosted function `setMdToPlanningDb` (replace data), collection `planning`. 
-- ✅ Add info from "theonesheet" here.
-- 🚫 Ask GPT if this deployment method is recommended, or something simpler.
+- 🚫 create hosted function `setMdToPlanningDb` (replace data), collection `planning` 
+- ✅ Add info from "theonesheet" here
+- 🚫 Ask GPT if this deployment method is recommended, or something simpler
 
 ### SHOW
 
@@ -69,7 +69,7 @@ Another science guy show, demonstrating how bad-4ss the remarkably handsome Matt
     5 Practices  
     6 One-Offs
 
-- unThinkme stock assets for thumbnails, including titles, brand logos (per category and for show), integral model, 
+- unThinkme stock assets for thumbnails, including titles, brand logos (per category and for show), integral model.
 
 - Consistent thubnails are probably good for brand, so lock a few parameters in.
 
