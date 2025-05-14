@@ -2,6 +2,27 @@
 
 ---
 
+## DOCKET SHOWS
+
+### Learn To Sing: You Already Are
+
+The root fundamental fact is that you improve by doing and trying to do better confidently and with self-awareness. We cover the basic ideas of openness to singing now, making it beautiful now, hard and strong and not overdoing it, having the attitude that I can't possibly do anything wrong, I'll just do it as well as I can, and creating an environment of singing, and a self-image of being a singer.
+
+### Technomancy: Start Coding Now
+
+A philosophical take on coding lessons. In a casual and intellectual setting, Adam and James unlock the mysterious hidden powers of the common web browser dev console - unlocking the gateway to the full power of code. We cover introductory Javascript, DOM manipulation, and networking, while reflecting on the secrets of the universe.
+
+### PRODUCTION
+
+### SHOW
+
+### ASSETS
+
+### TIMELINE
+
+### STATUS
+
+---
 
 ## Science Guys: Cleansing the Palette with PBS SPACETIME
 
@@ -27,6 +48,7 @@ Another science guy show, demonstrating how bad-4ss the remarkably handsome Matt
 - Remember that you are not perfectionist when the switch is up.
 - Establish the context more at the top of the show, particularly how it relates to past videos and integral (might need notes). 
 - I need to work on responding to James and asking questions and following his line. 
+- I need to not swear towards the intro and conclusion of the video. Youtube punishes swearing, but audiences like it.
 
 ### ASSETS
 
