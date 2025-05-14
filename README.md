@@ -10,7 +10,9 @@ The root fundamental fact is that you improve by doing and trying to do better c
 
 ### Technomancy: Start Coding Now
 
-A philosophical take on coding lessons. In a casual and intellectual setting, Adam and James unlock the mysterious hidden powers of the common web browser dev console - unlocking the gateway to the full power of code. We cover introductory Javascript, DOM manipulation, and networking, while reflecting on the secrets of the universe.
+A philosophical take on coding lessons. In a casual and intellectual setting, Adam and James unlock the mysterious hidden powers of the common web browser dev console - unlocking the gateway to the full power of code. We cover introductory Javascript, DOM manipulation, and networking, while reflecting on the secrets of the universe. 
+
+👆🏿 🧠 The idea is, just like Integral Theory, we take something that Adam likes to teach, and James is somewhat savvy with, and we approach it like we're brand new to it and want to jump right into comprehension as quickly as possible. Singing, coding, Integral, yoga, etc.
 
 <!--  ---
 
