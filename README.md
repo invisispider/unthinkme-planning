@@ -12,6 +12,14 @@ The root fundamental fact is that you improve by doing and trying to do better c
 
 A philosophical take on coding lessons. In a casual and intellectual setting, Adam and James unlock the mysterious hidden powers of the common web browser dev console - unlocking the gateway to the full power of code. We cover introductory Javascript, DOM manipulation, and networking, while reflecting on the secrets of the universe.
 
+---
+
+# COPY TEMPLATE
+
+## { Title }
+
+### PLANNING & TOPIC 
+
 ### PRODUCTION
 
 ### SHOW
