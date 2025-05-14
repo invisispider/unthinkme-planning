@@ -34,13 +34,13 @@ Another science guy show, demonstrating how bad-4ss the remarkably handsome Matt
 
 ### PRODUCTION
 
-- Develop an outline like this before the show starts, and start with cues and notes.
-- Make a login for James, and create "unlinked" url `/unthinkme_planning``, 
-- add md to database
-- Is it smart to serve markdown from firestore?
-- create hosted function `setMdToPlanningDb` (replace data), collection `planning`. 
-- Add info from "theonesheet" here.
-- Ask GPT if this deployment method is recommended, or something simpler.
+- ✅ Develop an outline like this before the show starts, and start with cues and notes.
+- 🚫 Make a login for James, and create "unlinked" url `/unthinkme_planning``, 
+- 🚫 add md to database
+- ✅✅ Is it smart to serve markdown from firestore?
+- 🚫 create hosted function `setMdToPlanningDb` (replace data), collection `planning`. 
+- ✅ Add info from "theonesheet" here.
+- 🚫 Ask GPT if this deployment method is recommended, or something simpler.
 
 ### SHOW
 
